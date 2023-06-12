@@ -1,6 +1,6 @@
 👋 Hi, I’m @[Mikaio](https://mikaio.dev)
 
-[github](https://github.com/Mika-IO)
+[MyGithub](https://github.com/Mika-IO)
 
 
 
