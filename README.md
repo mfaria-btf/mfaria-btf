@@ -1,8 +1,8 @@
-👋 Hi, I’m @Mikaio
+👋 Hi, I’m @[Mikaio](https://mikaio.dev)
 
-[Mika-IO](https://github.com/Mika-IO)
+[github](https://github.com/Mika-IO)
 
-[mikaio.dev](https://mikaio.dev)
+
 
 
 
